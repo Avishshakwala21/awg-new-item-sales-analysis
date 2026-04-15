@@ -79,3 +79,14 @@ To respect confidentiality:
 ## Author
 **Avish Shakwala**
 MS in Business Analytics, University of Illinois Urbana-Champaign
+
+## Project Visuals
+
+### Business Problem
+![Business Problem](project_goal.png)
+
+### Data + Method Overview
+![Data + Method Overview](method_overview.png)
+
+### Key Result
+![Key Result](key_result.png)
